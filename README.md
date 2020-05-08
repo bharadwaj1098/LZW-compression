@@ -71,14 +71,14 @@ STRING = NEW_STRING
 
 HOW to run the code?
 
-In command prompt open the directory in which the program is saved.
-then give a input of
+1) In command prompt open the directory in which the program is saved.
+2) then give a input of
 "python encoded.py <bit-length> <input.txt>"
-The output of this code is stored in input.lzw in 16 bit format.
-To run the decoding give a input of
+3) The output of this code is stored in input.lzw in 16 bit format.
+4) To run the decoding give a input of
 "python decoded.py <bit-length> <input.lzw>
-The decoded file will be stored in input_decoded.txt file.
-The input.txt file will be same as the input_decoded.txt file.
+5) The decoded file will be stored in input_decoded.txt file.
+6) The input.txt file will be same as the input_decoded.txt file.
 
 The efficiency of the program depends on the Size of data.
 
