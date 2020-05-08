@@ -73,10 +73,10 @@ HOW to run the code?
 
 1) In command prompt open the directory in which the program is saved.
 2) then give a input of
-"python encoded.py <bit-length> <input.txt>"
+"python encoding.py bit-length <input.txt>"
 3) The output of this code is stored in input.lzw in 16 bit format.
 4) To run the decoding give a input of
-"python decoded.py <bit-length> <input.lzw>
+"python decoding.py bit-length <input.lzw>
 5) The decoded file will be stored in input_decoded.txt file.
 6) The input.txt file will be same as the input_decoded.txt file.
 
